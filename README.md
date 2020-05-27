@@ -64,3 +64,7 @@ This program consists of 9 courses providing you with latest job-ready skills an
 - Neighborhood Segmentation and Clustering - week 37
 - The Battle of Neighborhoods - week 38
 - The Battle of Neighborhoods (Cont'd) - week 39
+
+## Certificate
+![alt certificate](https://github.com/romponciano/ibm-data-science-specialization/blob/master/ibm-datascience-specialization-certificate.png)
+Credential number: N4XX7DA8PA4A
